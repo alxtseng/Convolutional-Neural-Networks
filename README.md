@@ -1,3 +1,3 @@
 # Coursera Convolutional Neural Networks Projects
 
-Includes YOLO car detection project (week 3) and Facial Recognition Project (week 4)
+Includes YOLO Car Detection Project and Neural Style Transfer Art Project (week 3) and Facial Recognition Project (week 4)
